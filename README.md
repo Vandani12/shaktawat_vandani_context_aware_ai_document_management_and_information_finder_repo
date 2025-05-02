@@ -100,8 +100,6 @@ User Authentication: Adding authentication for secure access to sensitive resear
 
 **Google Doc** - https://docs.google.com/document/d/11kd-nfh1II7Lafn1ePe5I9zrkUU2L0NpWWojPZNoMd0/edit?tab=t.0
 
-**Video** - https://drive.google.com/file/d/1h2B5IQ4b8CGPbwIMJDLo2LwEdr9p_9bD/view?usp=drive_link
-
 **Web Link** - http://10.110.35.159:8501 
 
 Contact - 
