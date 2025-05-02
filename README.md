@@ -94,19 +94,6 @@ User Authentication: Adding authentication for secure access to sensitive resear
 
 
 
-
-
-**Contribution :**
-
-WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR 
-ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
-
-| Name            | Contribution %                       |
-|------------------|-------------------------------------|
-| Shubham Agarwal  | 33.33 %                             |
-| Chinmay Sawant   | 33.34 %                             |
-| Pranav Sonje     | 33.33 %                             |
-
 **Documentation files Team_9** 
 
 **Code labs** - https://codelabs-preview.appspot.com/?file_id=11kd-nfh1II7Lafn1ePe5I9zrkUU2L0NpWWojPZNoMd0
@@ -116,3 +103,6 @@ ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
 **Video** - https://drive.google.com/file/d/1h2B5IQ4b8CGPbwIMJDLo2LwEdr9p_9bD/view?usp=drive_link
 
 **Web Link** - http://10.110.35.159:8501 
+
+Contact
+Vandani Singh Shaktawat
