@@ -94,11 +94,9 @@ User Authentication: Adding authentication for secure access to sensitive resear
 
 
 
-**Documentation files Team_9** 
+**Documentation files**
 
 **Code labs** - https://codelabs-preview.appspot.com/?file_id=11kd-nfh1II7Lafn1ePe5I9zrkUU2L0NpWWojPZNoMd0
-
-**Google Doc** - https://docs.google.com/document/d/11kd-nfh1II7Lafn1ePe5I9zrkUU2L0NpWWojPZNoMd0/edit?tab=t.0
 
 Contact - 
 Vandani Singh Shaktawat
