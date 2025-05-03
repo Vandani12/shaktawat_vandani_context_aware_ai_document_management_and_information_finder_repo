@@ -34,8 +34,8 @@ Python and Dependencies (TOML managed): Backend scripting and AI integrations.
 NVIDIA Embeddings and OpenAI: For summaries and document embeddings.
 FAISS and Llama Index: For vector storage and indexing.
 
-Client-Facing Application
-Components
+**Client-Facing Application
+Components**
 
 FastAPI Endpoints:
 Users can explore available documents and query metadata.
@@ -47,18 +47,12 @@ Utilizes NVIDIA's API for dynamic summarization.
 Question-Answering (QA) Interface:
 Multi-modal retrieval and question-answering through OpenAI’s LLM.
 
-Code and Modules
+**Code and Modules**
 
 api_Final.py: FastAPI backend to handle API requests and interact with Snowflake and S3.
 main_app.py: Streamlit frontend interface for the users.
 
-Research Notes Indexing and Search
-Functionality
-
-Incremental Indexing and Storage:
-
-Research notes are created based on QA results and indexed using FAISS and Llama Index for optimized retrieval.
-Search Capabilities:
+**Search Capabilities:**
 
 Users can search notes and document text for detailed insights.
 Query results include both full documents and indexed research notes for enhanced relevance.
@@ -74,7 +68,7 @@ Setup
 Containerization: FastAPI and Streamlit applications are containerized using Docker.
 Docker Compose: Deploys services to ensure seamless communication between backend and frontend.
 
-Cloud Deployment on AWS EC2:
+**Cloud Deployment on AWS EC2:**
 
 Hosted on an EC2 instance with public access to the API and Streamlit application.
 
