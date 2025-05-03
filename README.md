@@ -63,12 +63,12 @@ Search Capabilities:
 Users can search notes and document text for detailed insights.
 Query results include both full documents and indexed research notes for enhanced relevance.
 
-Approach
+**Approach**
 
 FAISS for Vector Search: Fast and efficient similarity search.
 Llama Index: Manages indexes across various research notes.
 
-Deployment and Accessibility
+**Deployment and Accessibility**
 
 Setup
 Containerization: FastAPI and Streamlit applications are containerized using Docker.
@@ -82,7 +82,7 @@ Docker Configuration
 Dockerfile.fastapi and Dockerfile.streamlit: Builds for FastAPI and Streamlit, respectively.
 docker-compose.yml: Manages multi-container deployment.
 
-Challenges and Future Enhancements
+**Challenges and Future Enhancements**
 
 Handling Large Scale Data: Scaling S3 storage and Snowflake configurations for larger datasets.
 Enhanced QA with Contextual Understanding: Further refining the QA model using advanced embeddings.
@@ -98,5 +98,5 @@ User Authentication: Adding authentication for secure access to sensitive resear
 
 **Code labs** - https://codelabs-preview.appspot.com/?file_id=11kd-nfh1II7Lafn1ePe5I9zrkUU2L0NpWWojPZNoMd0
 
-Contact - 
-Vandani Singh Shaktawat
+**Contact - 
+Vandani Singh Shaktawat**
