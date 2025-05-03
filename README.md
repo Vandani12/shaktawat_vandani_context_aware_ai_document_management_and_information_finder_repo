@@ -16,14 +16,14 @@ The system should include a pipeline for scraping, storing, and structuring data
 Users should be able to browse documents, generate summaries, and conduct Q&A sessions using a multi-modal Retrieval-Augmented Generation (RAG) model.
 The platform should provide accurate, document-specific insights, support incremental indexing, and offer efficient search functionality, all accessible through a publicly deployed application.
 
-Components Overview:
+**Components Overview:**
 
 Data Ingestion and Database Population
 Client-Facing Application using FastAPI and Streamlit
 Research Notes Indexing and Search
 Deployment and Accessibility
 
-Tools and Technologies:
+**Tools and Technologies:**
 
 AWS S3: Storage for images and PDFs from CFA publications.
 Snowflake: For structured storage of metadata and processed data.
